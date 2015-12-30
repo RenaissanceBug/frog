@@ -737,6 +737,8 @@ To use MathJax:
 2. In your markdown source files, use `\\( some math \\)` for inline
    and `\\[ some math \\]` for display. (Note the _double_
    backslashes, `\\`, because in markdown `\` already has a meaning.)
+   In your Scribble source files, use a _single_ backslash for each
+   delimiter.
 
 
 # Bug reports? Feature requests?
